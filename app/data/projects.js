@@ -1,42 +1,34 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'My CScore',
+    subtitle: '2017 Fis Hackathon',
+    link: '',
+    image: '',
+    date: '2017-04-20',
+    desc: 'Built for a FIS regional hackathon. '
+      + 'My Cscore is personalized credit score rating system.'
+      + 'it computes credit score using users identity, social presence and authenticity'
+      + 'it is integrated with UIADI for identity, facebook, twitter, linked for social media presence'
+      + 'can be used in complement with traditional credit score system used by bank',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'One FIS',
+    subtitle: '2016 Fis Hackathon',
+    link: '',
+    image: '',
+    date: '2016-04-20',
+    desc: 'Integrated solution to access all resources of FIS at one place'
+      + 'One FIS was designed as mobile app which can be used by FIS employee to access different'
+      + 'resources of FIS seamlessly',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Jira Assistant',
+    subtitle: '2019 FIS Hackathon',
+    link: '',
+    image: '',
+    date: '2019-04-20',
+    desc: 'Jira Assistant is mobile app which is integrated with Atalasian Jira'
+      + 'User of app can give voice input to perform routine actions on the go'
+      + 'e.g ticket status, sprint report',
   },
 ];
 
