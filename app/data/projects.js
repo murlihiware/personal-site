@@ -3,7 +3,7 @@ const data = [
   {
     title: 'My CScore',
     subtitle: '2017 Fis Hackathon',
-    link: '',
+    link: '/projects',
     image: '',
     date: '2017-04-20',
     desc: 'Built for a FIS regional hackathon. '
@@ -14,7 +14,7 @@ const data = [
   }, {
     title: 'One FIS',
     subtitle: '2016 Fis Hackathon',
-    link: '',
+    link: '/projects',
     image: '',
     date: '2016-04-20',
     desc: 'Integrated solution to access all resources of FIS at one place'
@@ -23,7 +23,7 @@ const data = [
   }, {
     title: 'Jira Assistant',
     subtitle: '2019 FIS Hackathon',
-    link: '',
+    link: '/projects',
     image: '',
     date: '2019-04-20',
     desc: 'Jira Assistant is mobile app which is integrated with Atalasian Jira'
